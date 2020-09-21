@@ -11,6 +11,6 @@
     <text class="user-motto">{{motto}}</text>
   </view>
   <view>
-    <text>{{officialaccount}}</text>
+    <text class="official">{{officialaccount}}</text>
   </view>
 </view>
